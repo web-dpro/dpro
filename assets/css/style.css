@@ -93,6 +93,14 @@ p {
   color: #121212;
   margin: 0px; }
 
+.navbar-brand
+{
+    position: relative;
+    width: 125px;
+    left: 15px;
+    max-height: 70px; /* height of the navbar */
+}
+
 .bg_cover {
   background-position: center center;
   background-size: cover;
