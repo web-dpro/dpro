@@ -14,7 +14,7 @@
   float: none;
   clear: both;
   line-height: 1.5em;
-  word-break: break-word;
+  /*word-break: break-word;*/
   transform-origin: left top;
   transition: all 200ms;
   box-sizing: content-box;
